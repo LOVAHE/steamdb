@@ -1,8 +1,8 @@
 {
   "appid": 5046820,
   "source": "steam_pics",
-  "updated_at": "2026-10-11T03:22:25.272Z",
-  "change_number": 39706313,
+  "updated_at": "2026-10-11T05:37:25.714Z",
+  "change_number": 39707996,
   "data": {
     "common": {
       "associations": {
@@ -95,7 +95,7 @@
         "english": "ca289c9838d6e16bf34f7b58e27e1e6d39116f2d/capsule_231x87.jpg"
       },
       "steam_release_date": "1791685227",
-      "store_asset_mtime": "1790703701",
+      "store_asset_mtime": "1791697079",
       "store_tags": {
         "0": "699",
         "1": "5379",
