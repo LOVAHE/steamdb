@@ -3,7 +3,10 @@
   "steam_url": "https://store.steampowered.com/app/4285110/",
   "itad_id": "019c0249-5314-716e-b5ba-a0a45c345d99",
   "itad_url": "https://isthereanydeal.com/",
-  "updated_at": "2026-10-04T19:40:12.916Z",
+  "updated_at": "2026-10-11T05:52:24.306Z",
+  "demo_appids": [
+    4290310
+  ],
   "is_free": false,
   "categories": [
     {
@@ -80,7 +83,7 @@
   ],
   "steam_stage": "release",
   "header_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285110/141ce1d92ad831d9446487bd67e9d96a953c9bbf/header.jpg?t=1790995616",
-  "fetched_at": "2026-10-04T19:40:12.916Z",
+  "fetched_at": "2026-10-11T05:52:24.306Z",
   "asset_urls": [
     "https://shared.akamai.steamstatic.com/community_assets/images/apps/4285110/24f7c278603f608091f69400f2d4ed3d4380e63b.jpg",
     "https://shared.akamai.steamstatic.com/community_assets/images/apps/4285110/272ecccccfa5aefb92444e5f938550485824d3fa.jpg",

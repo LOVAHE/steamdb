@@ -360,11 +360,43 @@
       ],
       "kind": "change",
       "source": "steam_pics"
+    },
+    {
+      "at": "2026-10-11T05:52:24.306Z",
+      "change_number": 39708142,
+      "changes": [
+        {
+          "after": "25860446",
+          "before": "25857449",
+          "op": "replace",
+          "path": "/depots/branches/public/buildid"
+        },
+        {
+          "after": 1791697834,
+          "before": 1791676866,
+          "op": "replace",
+          "path": "/depots/branches/public/timebuildupdated"
+        },
+        {
+          "after": 1791697860,
+          "before": 1791676942,
+          "op": "replace",
+          "path": "/depots/branches/public/timeupdated"
+        },
+        {
+          "after": "4506598594716336379",
+          "before": "9113806254541314846",
+          "op": "replace",
+          "path": "/depots/depots/3861921/manifests/public"
+        }
+      ],
+      "kind": "change",
+      "source": "steam_pics"
     }
   ],
   "latest": {
     "steam_pics": {
-      "change_number": 39703873,
+      "change_number": 39708142,
       "data": {
         "appinfo": {
           "common": {
@@ -511,9 +543,9 @@
         "depots": {
           "branches": {
             "public": {
-              "buildid": "25857449",
-              "timebuildupdated": 1791676866,
-              "timeupdated": 1791676942
+              "buildid": "25860446",
+              "timebuildupdated": 1791697834,
+              "timeupdated": 1791697860
             }
           },
           "depots": {
@@ -538,17 +570,17 @@
                 "oslist": "windows"
               },
               "manifests": {
-                "public": "9113806254541314846"
+                "public": "4506598594716336379"
               }
             }
           }
         }
       },
-      "observed_at": "2026-10-11T00:37:22.572Z",
+      "observed_at": "2026-10-11T05:52:24.306Z",
       "tracked": true
     }
   },
   "month": "2026-10",
   "schema": 1,
-  "updated_at": "2026-10-11T00:37:22.572Z"
+  "updated_at": "2026-10-11T05:52:24.306Z"
 }

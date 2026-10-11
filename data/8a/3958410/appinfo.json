@@ -1,8 +1,8 @@
 {
   "appid": 3958410,
   "source": "steam_pics",
-  "updated_at": "2026-10-10T21:07:20.660Z",
-  "change_number": 39701000,
+  "updated_at": "2026-10-11T05:52:24.306Z",
+  "change_number": 39708037,
   "data": {
     "common": {
       "associations": {
@@ -131,7 +131,7 @@
       "quota": "10000000",
       "savefiles": {
         "0": {
-          "path": "CancerCrusher\\Saved\\SaveGames\\CancerCrusherSave.sav",
+          "path": "CancerCrusher\\Saved\\SaveGames\\",
           "pattern": "*.sav",
           "platforms": {
             "1": "Windows"

@@ -783,11 +783,49 @@
       ],
       "kind": "change",
       "source": "steam_pics"
+    },
+    {
+      "at": "2026-10-11T05:52:24.306Z",
+      "change_number": 39708071,
+      "changes": [
+        {
+          "after": "25860398",
+          "before": "25858969",
+          "op": "replace",
+          "path": "/depots/branches/test_20261003/buildid"
+        },
+        {
+          "after": 1791697513,
+          "before": 1791687069,
+          "op": "replace",
+          "path": "/depots/branches/test_20261003/timebuildupdated"
+        },
+        {
+          "after": 1791697513,
+          "before": 1791687069,
+          "op": "replace",
+          "path": "/depots/branches/test_20261003/timeupdated"
+        },
+        {
+          "after": "1432410607656202422",
+          "before": "2120137023490738270",
+          "op": "replace",
+          "path": "/depots/depots/1114231/manifests/test_20261003"
+        },
+        {
+          "after": "2560784044869279551",
+          "before": "182377306684491095",
+          "op": "replace",
+          "path": "/depots/depots/1114232/manifests/test_20261003"
+        }
+      ],
+      "kind": "change",
+      "source": "steam_pics"
     }
   ],
   "latest": {
     "steam_pics": {
-      "change_number": 39706204,
+      "change_number": 39708071,
       "data": {
         "appinfo": {
           "common": {
@@ -965,10 +1003,10 @@
               "timeupdated": 1791688245
             },
             "test_20261003": {
-              "buildid": "25858969",
+              "buildid": "25860398",
               "description": "7.32 测试版：引擎、资源加载、成就与存档修复；历史成就及云存档兼容待验证",
-              "timebuildupdated": 1791687069,
-              "timeupdated": 1791687069
+              "timebuildupdated": 1791697513,
+              "timeupdated": 1791697513
             }
           },
           "depots": {
@@ -980,7 +1018,7 @@
               "manifests": {
                 "legacy_2019": "1062199453557779867",
                 "public": "5659790228738028994",
-                "test_20261003": "2120137023490738270"
+                "test_20261003": "1432410607656202422"
               }
             },
             "1114232": {
@@ -990,13 +1028,13 @@
               "manifests": {
                 "legacy_2019": "8961244323056224983",
                 "public": "5215486495401693871",
-                "test_20261003": "182377306684491095"
+                "test_20261003": "2560784044869279551"
               }
             }
           }
         }
       },
-      "observed_at": "2026-10-11T03:22:25.272Z",
+      "observed_at": "2026-10-11T05:52:24.306Z",
       "tracked": true
     },
     "steam_store": {
@@ -1116,5 +1154,5 @@
   },
   "month": "2026-10",
   "schema": 1,
-  "updated_at": "2026-10-11T03:22:25.272Z"
+  "updated_at": "2026-10-11T05:52:24.306Z"
 }

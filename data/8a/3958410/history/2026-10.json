@@ -728,11 +728,25 @@
       ],
       "kind": "change",
       "source": "steam_store"
+    },
+    {
+      "at": "2026-10-11T05:52:24.306Z",
+      "change_number": 39708037,
+      "changes": [
+        {
+          "after": "CancerCrusher\\Saved\\SaveGames\\",
+          "before": "CancerCrusher\\Saved\\SaveGames\\CancerCrusherSave.sav",
+          "op": "replace",
+          "path": "/appinfo/ufs/savefiles/0/path"
+        }
+      ],
+      "kind": "change",
+      "source": "steam_pics"
     }
   ],
   "latest": {
     "steam_pics": {
-      "change_number": 39701000,
+      "change_number": 39708037,
       "data": {
         "appinfo": {
           "common": {
@@ -862,7 +876,7 @@
             "quota": "10000000",
             "savefiles": {
               "0": {
-                "path": "CancerCrusher\\Saved\\SaveGames\\CancerCrusherSave.sav",
+                "path": "CancerCrusher\\Saved\\SaveGames\\",
                 "pattern": "*.sav",
                 "platforms": {
                   "1": "Windows"
@@ -913,7 +927,7 @@
           }
         }
       },
-      "observed_at": "2026-10-10T21:07:20.660Z",
+      "observed_at": "2026-10-11T05:52:24.306Z",
       "tracked": true
     },
     "steam_store": {
@@ -1029,5 +1043,5 @@
   },
   "month": "2026-10",
   "schema": 1,
-  "updated_at": "2026-10-11T02:37:20.357Z"
+  "updated_at": "2026-10-11T05:52:24.306Z"
 }
